@@ -1,0 +1,2 @@
+def callB():
+    print("Bye!")
